@@ -2,7 +2,7 @@
 Converts 3D MVC (Multi-View Codec) files to SBS (side-by-side) or HSBS (half-side-by-side) MKV
 Building in Swift around ffmpeg to encode in H264 or x265 (you can install this with Homebrew) and edge264-mvc to decode interleaved MVC Blu-Ray files (which it will install if needed).
 
-Coded with Claude since the only program I found to do this was only for Windows.
+Coded with Claude since the only program I found to do this was only for Windows [BD3D2MK3D](https://www.videohelp.com/software/BD3D2MK3D#download).
 
 ## Build
 1. `xcode-select --install`   (once)
